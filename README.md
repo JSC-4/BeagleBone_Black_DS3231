@@ -4,11 +4,11 @@ This project was to iterface with the DS3231 RTC module, using the BeagleBone Bl
 
 ## Built With
 
--Hardware
+- Hardware
 * [BeagleBone Black Wireless](https://beagleboard.org/blog/2016-09-26-meet-beaglebone-black-wireless) 
 * [DS3231](https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-real-time-clock-module-ds3231-bc90fe)
 
--The software used
+- Software
 * [Eclipse](https://www.eclipse.org/) 
 
 ## Website
