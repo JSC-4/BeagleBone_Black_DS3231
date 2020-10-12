@@ -1,6 +1,6 @@
 # BeagleBone_Black_DS3231
 
-This project was to iterface with the DS3231 RTC module, using the BeagleBone Black. This RTC is connected via I2C-2 and is modified from the orignal code found in the Exploring BeagleBone: Tools and Techniques for Building with Embedded Linux book by Derek Molloy.
+This project was to interface with the DS3231 RTC module, using the BeagleBone Black. This RTC is connected via I2C-2 and is modified from the orignal code found in the Exploring BeagleBone: Tools and Techniques for Building with Embedded Linux book by Derek Molloy.
 
 ## Built With
 
